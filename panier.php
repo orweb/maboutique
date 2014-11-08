@@ -62,10 +62,6 @@ if(isset($_GET['action']) && $_GET['action'] == 'suppression')
 }
 
 
-
-
-
-
 //***********************AJOUT ARTICLE AU PANIER
 if(isset($_POST['ajout_panier'])) // ce post provient de la page fiche_article.php
 {
