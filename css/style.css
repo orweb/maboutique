@@ -1,0 +1,59 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.bkg{
+    background: #52524f;
+}
+
+a{
+    color: #ffffff;
+}
+
+/*Couleurs text*/
+
+.bigh1{
+    text-shadow: 1px 1px 2px #a23b2a;
+    color: #b9a55b;
+}
+
+
+h1,h2,h3{
+    text-shadow: 2px 5px 9px #a23b2a;
+    color: #b9a55b;
+}
+
+.list-group-item, table
+{
+    background: #b4b4b4;
+}
+
+#btnmodif
+{
+    margin-top: 23.5px;
+}
+
+
+/*panier conditions de reglement*/
+
+
+
+.panel .dl-horizontal dt{
+    white-space: normal;
+}
+
+.panel-body{
+    background: #b4b4b4;
+}
+
+/*.pagination.center,*/
+/*.pagination.center ul {*/
+    /*float: left;*/
+    /*position: relative;*/
+/*}*/
+/*.pagination.center { left: 180%; }*/
+/*.pagination.center ul { left: -20%; }*/
